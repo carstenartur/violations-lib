@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="INT | Finanzieren - Smoketests" tests="10" failures="1" skipped="1" time="720.5927653" timestamp
+    ="2020-02-10T16:12:56" id="39f13ba7-6820-d6dc-8165-76fbcceabc7e" log="">
+    <testcase name="Finanzieren Smoketests - Grundstück erfassen" time="168.5116337" timestamp="2020-02-10T16:13:0
+      5.6008759+01:00" log="+ Passed Finanzieren Smoketests - Grundstück erfassen&#xD;&#xA;…" />
+    <testcase name="Finanzieren Smoketests - Versicherung erfassen" time="93.8767338" timestamp="2020-02-10T16:16:5
+      8.9749463+01:00" log="+ Passed Finanzieren Smoketests - Versicherung erfassen&#xD;&#xA;…" />
+    <testcase name="Finanzieren Smoketests - Finanzierung zusammenstellen" time="143.0023053" timestamp="2020-02-10
+      T16:19:37.3683063+01:00" log="+ Failed Finanzieren Smoketests - Finanzierung zusammenstellen&#xD;&#xA;…" />
+    <testcase name="Finanzieren Smoketests - Kreditportfolio überprüfen" time="" timestamp="">
+      <skipped />
+    </testcase>
+  </testsuite>
+</testsuites>
